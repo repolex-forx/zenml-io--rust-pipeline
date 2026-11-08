@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "zenml-io",
+  "repo": "rust-pipeline",
+  "versions": [
+    {
+      "commit": "c7e8ed504c935d870f123c23de5023a92a46a6f9",
+      "parsed_at": "2026-11-08T05:27:32.566094+00:00",
+      "filetree": "filetree/c7e8ed504c935d870f123c23de5023a92a46a6f9.nq.gz",
+      "blobs": [
+        "blob/3cd01d662c668b8923d4bf7571bd4fd3017c4f55.nq.gz",
+        "blob/6fb46017d25f913e210f115bb9b7d377435c384b.nq.gz",
+        "blob/d6306464c35794155fd38108dce433a20876f958.nq.gz",
+        "blob/bb578c0b2ecab585c4187300a2676d662efb4d74.nq.gz",
+        "blob/4b719003999f7fd6dbe4e38d36481365af6b5a97.nq.gz",
+        "blob/2d00290e6c948e96e99d3276538047b807ff9bfa.nq.gz",
+        "blob/f856d4d95ccbed1353bd98a0b332a9738fd9c80a.nq.gz",
+        "blob/71094508fc470abfcfd8cb2bada1d5d3db4cae56.nq.gz",
+        "blob/81dbfe1dcd86df598cda896848582909a0674ed6.nq.gz",
+        "blob/c1d9ec76b3ad72231c64624d15035e4c6aebd6c6.nq.gz",
+        "blob/d0849658d95996256d4de660f2b822cb14f8e533.nq.gz",
+        "blob/17289eb663d70ec3007211b8b1b8db91994674e8.nq.gz",
+        "blob/43977d24709831b7d44e7caba769c4f9330ef742.nq.gz",
+        "blob/7d73c0fa5033bb965522bf08754e5ef7f9b15e0f.nq.gz",
+        "blob/393aa4a924a69511663fdf288e80de9f3d3969ce.nq.gz",
+        "blob/e8ea3ae4fe50a602493865037f47d75411b1bbb2.nq.gz",
+        "blob/94b786302969f6401febc0c2c75d8f95b6f9eb14.nq.gz",
+        "blob/78a624d8c319ee66c183c2957ff7858b3ae6751a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
