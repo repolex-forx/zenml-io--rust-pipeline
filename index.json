@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "rust-pipeline",
+  "versions": [
+    {
+      "commit": "c7e8ed504c935d870f123c23de5023a92a46a6f9",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:29:54.397170+00:00"
+    }
+  ]
+}
